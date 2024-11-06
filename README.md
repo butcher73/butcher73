@@ -17,7 +17,3 @@ I’m **The Butcher**—not in the mob kind of way, but more in the BBQ and codi
 - 📬 Hit me up for collabs, BBQ recipes, or just to swap travel stories and coding rants!
 
 ![](https://hit.yhype.me/github/profile?user_id=107277499)
-
----
-
-This profile keeps it light and showcases your skills, but with a fun twist!
