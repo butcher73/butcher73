@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**butcher73/butcher73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://hit.yhype.me/github/profile?user_id=107277499)
 
-Here are some ideas to get you started:
+I’m **The Butcher**—not in the mob kind of way, but more in the BBQ and coding kind of way. 🥩 By day, I’m a coder working with **Python**, **TypeScript**, and **Solidity**. By night (or anytime I need a break from the screen), I’m all about grilling up a mean BBQ and planning my next travel adventure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A Bit About Me
+- 🌐 Deep into **Web3** and **blockchain**—think of it as coding’s spicy side.
+- 🔧 Currently learning **Rust** because, hey, why not add more fuel to the coding fire?
+- 🍖 On a personal mission to achieve BBQ perfection (if you know the secret, spill it!).
+
+### My Tech Toolbox 🛠️
+- **Languages**: Python, TypeScript, Solidity (and trying to tame Rust)
+- **Interests**: Blockchain, Smart Contracts, and anything that makes coding more fun.
+
+### Let’s Chat!
+- 📬 Hit me up for collabs, BBQ recipes, or just to swap travel stories and coding rants!
+
+![](https://hit.yhype.me/github/profile?user_id=107277499)
+
+---
+
+This profile keeps it light and showcases your skills, but with a fun twist!
